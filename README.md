@@ -135,9 +135,8 @@ NPCs appear across lessons, creating continuity and emotional connection to the 
 
 <p align="center">
   <img src="screenshots/dashboard.png" alt="Home screen" width="700">
-  
-  <br><br> <img src="screenshots/reels_github.png" alt="Reels engine" width="340">
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="screenshots/chat_github.png" alt="Roleplay engine" width="340">
 </p>
+
+https://github.com/user-attachments/assets/fb1f5763-094f-409a-9e58-cf040106ce3a
 
 Built with ❤️ by [Ksenia Galaktionova](https://xenia19.github.io/portfolio)
